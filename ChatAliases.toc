@@ -1,0 +1,12 @@
+## Interface: 11509, 16001, 20506
+## Title: Chat Aliases
+## Notes: Shortens chat channel names, e.g. [2. Trade - English] to [2:T]
+## Version: 1.0.0
+## Category: Chat
+## SavedVariables: ChatAliasesDB
+## OptionalDeps: LibStub, CallbackHandler-1.0, Ace3
+
+Libs\embeds.xml
+Defaults.lua
+ChatAliases.lua
+Options.lua
