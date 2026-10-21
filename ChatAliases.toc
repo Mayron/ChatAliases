@@ -2,7 +2,7 @@
 ## Title: Chat Aliases
 ## Notes: Shortens chat channel names, e.g. [2. Trade - English] to [2:T]
 ## Author: Mayron
-## Version: 1.0.0
+## Version: 1.0.1
 ## Category: Chat
 ## SavedVariables: ChatAliasesDB
 ## OptionalDeps: LibStub, CallbackHandler-1.0, Ace3

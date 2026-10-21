@@ -23,7 +23,7 @@
   - Boxes are ready for General, Trade, LocalDefense, LookingForGroup, WorldDefense and GuildRecruitment.
   - **Use first letters** fills in every empty box with the channel's initials in one click.
   - Add any custom channel under **Other channels**, one `Name = Alias` per line.
-- **Chat type aliases**: shorten Guild, Officer, Party, Party Leader, Raid, Raid Leader, Raid Warning, Instance and Instance Leader too, e.g. `[Guild]` -> `[G]`.
+- **Chat type aliases**: shorten Guild, Officer, Party, Party Leader, Raid, Raid Leader, Raid Warning, Instance, Instance Leader, Battleground and Battleground Leader too, e.g. `[Guild]` -> `[G]`.
 - **Your own format**: decide exactly how channels look using `{number}` and `{name}`:
 
   | Format               | Result       |
