@@ -23,7 +23,7 @@
   - Boxes are ready for General, Trade, LocalDefense, LookingForGroup, WorldDefense and GuildRecruitment.
   - **Use first letters** fills in every empty box with the channel's initials in one click.
   - Add any custom channel under **Other channels**, one `Name = Alias` per line.
-- **Chat type aliases**: shorten Guild, Officer, Party, Party Leader, Raid, Raid Leader, Raid Warning, Instance and Instance Leader too, e.g. `[Guild]` -> `[G]`.
+- **Chat type aliases**: shorten Guild, Officer, Party, Party Leader, Raid, Raid Leader, Raid Warning, Instance, Instance Leader, Battleground and Battleground Leader too, e.g. `[Guild]` -> `[G]`.
 - **Your own format**: decide exactly how channels look using `{number}` and `{name}`:
 
   | Format               | Result       |
@@ -53,3 +53,4 @@ Timestamps themselves are turned on in the game's own settings (**Options -> Soc
 
 - Chat Aliases changes what _you_ see in your chat window only. Other players see nothing different.
 - Settings are shared across all your characters, and can be reset to their defaults at any time.
+- In battlegrounds and instances, some chat lines are protected by the game and no addon can change them. Those lines keep their original channel name and timestamp colour.

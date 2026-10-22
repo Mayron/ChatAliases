@@ -26,6 +26,6 @@ ns.KNOWN_CHANNELS = {
   };
   chatTypes = {
     "Guild", "Officer", "Party", "Party Leader", "Raid", "Raid Leader", "Raid Warning",
-    "Instance", "Instance Leader",
+    "Instance", "Instance Leader", "Battleground", "Battleground Leader",
   };
 };
